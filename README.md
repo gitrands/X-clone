@@ -42,7 +42,7 @@ It demonstrates a modular architecture for **frontend–backend integration**, *
 - 🧩 Modular folder architecture (`frontend/` & `backend/`)
 - 📱 Fully responsive design
 
----
 
 ## 📂 Project Structure
+
 
